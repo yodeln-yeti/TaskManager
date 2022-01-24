@@ -1,0 +1,15 @@
+/Users/jonathanrose/Projects/TaskManager/bin/Debug/net6.0/TaskManager
+/Users/jonathanrose/Projects/TaskManager/bin/Debug/net6.0/TaskManager.deps.json
+/Users/jonathanrose/Projects/TaskManager/bin/Debug/net6.0/TaskManager.runtimeconfig.json
+/Users/jonathanrose/Projects/TaskManager/bin/Debug/net6.0/TaskManager.dll
+/Users/jonathanrose/Projects/TaskManager/bin/Debug/net6.0/ref/TaskManager.dll
+/Users/jonathanrose/Projects/TaskManager/bin/Debug/net6.0/TaskManager.pdb
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.csproj.AssemblyReference.cache
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.AssemblyInfoInputs.cache
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.AssemblyInfo.cs
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.csproj.CoreCompileInputs.cache
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.dll
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/ref/TaskManager.dll
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.pdb
+/Users/jonathanrose/Projects/TaskManager/obj/Debug/net6.0/TaskManager.genruntimeconfig.cache
